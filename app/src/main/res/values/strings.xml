@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">World War 2 Quiz</string>
+
+    <!--______________Strings Used For XML_________________-->
+
+    <!--Score Info-->
+    <string name="score_text">Your Score Is: </string>
+    <integer name="score_start">0</integer>
+
+
+    <!--Question 1 Text-->
+    <string name="question1">For every 5 German soldiers who died in WWII, How many of them died on the Eastern Front? </string>
+
+    <!--Answer 1 Text-->
+    <string name="Q1A1"> 4 </string>
+
+    <!--Answer 2 Text-->
+    <string name="Q1A2"> 3 </string>
+
+    <!--Answer 3 Text-->
+    <string name="Q1A3"> 2 </string>
+
+    <!--Answer 4 Text-->
+    <string name="Q1A4"> 1 </string>
+
+
+
+
+    <!--Question 2 Text-->
+    <string name="question2"> What percent of the Soviet males born in 1923 survived WWII?</string>
+
+    <!--Answer 1 Text-->
+    <string name="Q2A1"> 50% </string>
+
+    <!--Answer 2 Text-->
+    <string name="Q2A2"> 30% </string>
+
+    <!--Answer 3 Text-->
+    <string name="Q2A3"> 20% </string>
+
+    <!--Answer 4 Text-->
+    <string name="Q2A4"> 15% </string>
+
+
+
+
+    <!--Question 3 Text-->
+    <string name="question3"> The greatest tank battle in history occurred between the _____________ and ______________</string>
+
+    <!--Answer 1 Text-->
+    <string name="Q3A1"> German </string>
+
+    <!--Answer 2 Text-->
+    <string name="Q3A2"> Poland </string>
+
+    <!--Answer 3 Text-->
+    <string name="Q3A3"> Russia </string>
+
+    <!--Answer 4 Text-->
+    <string name="Q3A4"> England </string>
+
+
+
+
+
+    <!--Question 4 Text-->
+    <string name="question4"> The word “Nazi” derives from a Bavarian word that means what? </string>
+
+    <!--Answer-->
+    <string name="Q4_Answer">Simple Minded</string>
+
+
+    <!--Question 5 Text-->
+    <string name="question5"> Before Nazi Germany decided to eliminate the Jews by gassing them, it had considered sending them to what island?</string>
+
+    <!--Answer-->
+    <string name="Q5_Answer"> Madagascar </string>
+
+
+
+
+
+    <!--Submit Text-->
+    <string name="submitButton">Submit All Answers</string>
+
+    <!--Submit Question 4-->
+    <string name="submitQ4Button">Submit Text</string>
+
+    <!--Submit Question 5-->
+    <string name="submitQ5Button">Submit Text</string>
+
+
+
+
+
+    <!--______________Strings used for Java__________________-->
+
+    <!--CORRECT ANSWERS MESSAGES-->
+
+    <string name="summary">Summary:</string>
+
+    <!--Correct Answer Message for Question 1-->
+    <string name="correctAnswer1msg">Question 1 - Correct </string>
+
+    <!--Correct Answer Message for Question 2-->
+    <string name="correctAnswer2msg"> Question 2 - Correct </string>
+
+    <!--Correct Answer Message for Question 1-->
+    <string name="correctAnswer3msg">Question 3 - Correct </string>
+
+    <!--Correct Answer Message for Question 1-->
+    <string name="correctAnswer4msg">Question 4 - Correct </string>
+
+    <!--Correct Answer Message for Question 1-->
+    <string name="correctAnswer5msg">Question 5 - Correct </string>
+
+
+
+
+
+    <!--INCORRECT ANSWER MESSAGES-->
+
+    <!--Correct Answer Message for Question 1-->
+    <string name="wrongAnswer1msg">Question 1 - Wrong</string>
+
+    <!--Correct Answer Message for Question 2-->
+    <string name="wrongAnswer2msg">Question 2 - Wrong </string>
+
+    <!--Correct Answer Message for Question 3-->
+    <string name="wrongAnswer3msg">Question 3 - Wrong </string>
+
+    <!--Correct Answer Message for Question 4-->
+    <string name="wrongAnswer4msg">Question 4 - Wrong </string>
+
+    <!--Correct Answer Message for Question 5-->
+    <string name="wrongAnswer5msg">Question 5 - Wrong </string>
+
+
+
+
+
+    <!--When You only have part of question 3 correct-->
+    <string name="halfwayThere3msg">You got one part right! Keep going!</string>
+
+</resources>
