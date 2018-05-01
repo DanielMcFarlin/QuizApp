@@ -3,8 +3,8 @@ WWII Quiz project for Udacity NanoDegree
 
 Home page shown when app is initially opened
 
-![image](https://user-images.githubusercontent.com/30839650/39490830-c639cfd6-4d4f-11e8-8a5a-1cf6675a6fb1.png)
+![image](https://user-images.githubusercontent.com/30839650/39490900-0b2cb5e0-4d50-11e8-956a-69c49710e7dc.png)
 
 Summary shown after submitting answers
 
-![image](https://user-images.githubusercontent.com/30839650/39490870-e9d22786-4d4f-11e8-8c35-7448ea62cdc1.png)
+![image](https://user-images.githubusercontent.com/30839650/39490914-1d6b098c-4d50-11e8-8ee0-bf621e3bacb1.png)
